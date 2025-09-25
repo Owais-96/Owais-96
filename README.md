@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python, R, SQL, C, C++, 
 - 💞 I love to learn and grow
 - 📫 How to reach me Contact:- 9619841783, Insta:- owais_96, Email:- owais96mulla@gmail.com
-- 😄 Pronouns: Bat/man
-- ⚡ Fun fact: I am BATMAN
+- 😄 Pronouns: spider/man
+- ⚡ Fun fact: I am Spiderman
 
 <!---
 Owais-96/Owais-96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
